@@ -1,7 +1,12 @@
 **Live server:** https://ryusaem.github.io/role-playing-game/
+<<<<<<< HEAD
 
 **Github Repository:** https://github.com/Ryusaem/role-playing-game
 
+=======
+**Github Repository:** https://github.com/Ryusaem/role-playing-game
+
+>>>>>>> e99e28858fa6277ddb834f6c121399c9b1c68c51
 **Introduction**
 This project isn't just about learning to code—it's about coding to learn, as you transform abstract concepts into tangible game elements that entertain and educate. Through this captivating project, you transform from a novice coder into a skilled creator, ready to wield the powerful tools of web development to make your mark in the digital world.
 
